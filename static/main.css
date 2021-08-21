@@ -1,5 +1,5 @@
 body {
-  background: #fafafa;
+  background: #c7ccd1;
   color: #333333;
   margin-top: 5rem;
 }
@@ -13,7 +13,7 @@ ul {
 }
 
 .bg-steel {
-  background-color: #5f788a;
+  background-color: darkred;
 }
 
 .site-header .navbar-nav .nav-link {
@@ -38,6 +38,7 @@ ul {
 
 .article-title {
   color: #444444;
+  font-size: large;
 }
 
 a.article-title:hover {
